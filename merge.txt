@@ -1,4 +1,4 @@
 Line 1: "Hello"
 Line 2: "Welcome"
-Line 2: "commited to master branch"
+Line 2: "merged to feature branch"
 Line 3: "Thanks"
